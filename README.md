@@ -8,6 +8,7 @@ Screenshots
 ![Example of Food PickerAlertController](./PickerAlert/Screenshots/foodPicker.png)
 
 Alert is dismissed when tapping on the background. Used delegate pattern to handle selection and display the item on the screen.
+
 ![Example of Food PickerAlertController](./PickerAlert/Screenshots/foodPicker.gif)
 
 
