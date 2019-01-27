@@ -14,9 +14,9 @@
 		3DDFE3E521FD557A00CC4E1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DDFE3E321FD557A00CC4E1F /* LaunchScreen.storyboard */; };
 		3DDFE3ED21FD55AA00CC4E1F /* PickerAlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DDFE3EC21FD55AA00CC4E1F /* PickerAlertController.swift */; };
 		3DDFE3EF21FD846300CC4E1F /* PickerAlertDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DDFE3EE21FD846300CC4E1F /* PickerAlertDelegate.swift */; };
-		3DDFE3F621FDB13900CC4E1F /* foodPicker.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DDFE3F521FDB13900CC4E1F /* foodPicker.png */; };
 		3DDFE3FA21FDB36D00CC4E1F /* foodPicker.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3DDFE3F921FDB36D00CC4E1F /* foodPicker.gif */; };
 		3DDFE3FC21FDB4EC00CC4E1F /* foodPickerNoHeader.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DDFE3FB21FDB4EC00CC4E1F /* foodPickerNoHeader.png */; };
+		3DDFE3FE21FDB5C500CC4E1F /* foodPicker.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DDFE3FD21FDB5C500CC4E1F /* foodPicker.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,9 +29,9 @@
 		3DDFE3E621FD557A00CC4E1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3DDFE3EC21FD55AA00CC4E1F /* PickerAlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerAlertController.swift; sourceTree = "<group>"; };
 		3DDFE3EE21FD846300CC4E1F /* PickerAlertDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerAlertDelegate.swift; sourceTree = "<group>"; };
-		3DDFE3F521FDB13900CC4E1F /* foodPicker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foodPicker.png; sourceTree = "<group>"; };
 		3DDFE3F921FDB36D00CC4E1F /* foodPicker.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = foodPicker.gif; sourceTree = "<group>"; };
 		3DDFE3FB21FDB4EC00CC4E1F /* foodPickerNoHeader.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foodPickerNoHeader.png; sourceTree = "<group>"; };
+		3DDFE3FD21FDB5C500CC4E1F /* foodPicker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foodPicker.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +82,7 @@
 			children = (
 				3DDFE3F921FDB36D00CC4E1F /* foodPicker.gif */,
 				3DDFE3FB21FDB4EC00CC4E1F /* foodPickerNoHeader.png */,
-				3DDFE3F521FDB13900CC4E1F /* foodPicker.png */,
+				3DDFE3FD21FDB5C500CC4E1F /* foodPicker.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -145,8 +145,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DDFE3FE21FDB5C500CC4E1F /* foodPicker.png in Resources */,
 				3DDFE3FA21FDB36D00CC4E1F /* foodPicker.gif in Resources */,
-				3DDFE3F621FDB13900CC4E1F /* foodPicker.png in Resources */,
 				3DDFE3E521FD557A00CC4E1F /* LaunchScreen.storyboard in Resources */,
 				3DDFE3E221FD557A00CC4E1F /* Assets.xcassets in Resources */,
 				3DDFE3E021FD557800CC4E1F /* Main.storyboard in Resources */,
