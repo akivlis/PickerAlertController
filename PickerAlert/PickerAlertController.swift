@@ -129,7 +129,7 @@ private extension PickerAlertController {
         mainStackView.distribution = .fill
         roundedContainerView.addSubview(mainStackView)
         
-        headerView.backgroundColor = .white
+        headerView.backgroundColor = .red
         headerView.titleLabel.textColor = .white
         headerView.subtitleLabel.textColor = .white
         mainStackView.addArrangedSubview(headerView)

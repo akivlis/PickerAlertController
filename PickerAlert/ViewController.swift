@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     @objc func buttonTapped(sender: UIButton!) {
         let alert = PickerAlertController()
         alert.items = ["Apple 🍎", "Pear 🍐", "Banana 🍌", "Carrot 🥕", "Avocado 🥑", " Corn 🌽"]
-//        alert.set(title: "Select item", subtitle: "🛒")
+        alert.set(title: "Select item", subtitle: "🛒")
         alert.delegate = self
         
         present(alert, animated: true, completion: nil)
